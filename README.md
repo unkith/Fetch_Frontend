@@ -16,4 +16,4 @@ npm install
 ```
 npm run dev
 ```
-- Then open ```localhost:5173``` on a browser
+- Then open ```localhost:5173``` or ```localhost:5174``` (or whichever one is mentioned in the terminal) on a browser
