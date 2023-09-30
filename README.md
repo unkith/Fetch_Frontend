@@ -15,3 +15,4 @@ npm install
 ```
 npm run dev
 ```
+- Then open ```localhost:5173``` on a browser
