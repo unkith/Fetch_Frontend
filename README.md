@@ -6,6 +6,7 @@ This project was made with the help of ReactJS and Bootstrap
 # To run this: 
 
 - Clone the repository
+- Switch to the dog_website directory
 - Install dependecies with:
 ```
 npm install
